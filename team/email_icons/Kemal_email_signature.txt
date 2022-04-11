@@ -1,0 +1,21 @@
+<table cellpadding="0" cellspacing="0" style="border-style: none" width="500px">
+	<tbody>
+		<tr>
+			<td colspan="2" height="100" width="500">Best Regards,</td>
+		</tr>
+		<tr>
+			<td height="100" style="text-align:center; vertical-align:middle;" width="120"><img alt="" src="https://raw.githubusercontent.com/HelmDA/images/main/team/email_icons/Kemal_email_icon.png" style="width: 74px; height: 74px;" /></td>
+			<td height="100" style=" table-layout: fixed; padding-left: 20; border-right-style: solid; border-color: #0F02F1; text-align: left; vertical-align: middle;" width="300">
+			<h1 style="line-height: 0; face: Roboto; font-size: 18; font-weight: bold">Kemal Ciftci</h1>
+
+			<h2 style="line-height: 1; font:Roboto; font-size: 12">Product Deveopment Manager</h2>
+
+
+			<h3 style="line-height: 1; font:Roboto; font-size: 10">www.helmda-systems.com</h3>
+
+			<h3 style="line-height: 0; font:Roboto; font-size: 10">+90 53250 75640&nbsp;</h3>
+			</td>
+			<td height="100" style="text-align:center; vertical-align:middle" width="120"><img alt=""  src="https://raw.githubusercontent.com/HelmDA/images/main/team/email_icons/HelmDA_email_icon.png" style="width: 84px; height: 52px;" /></td>
+		</tr>
+	</tbody>
+</table>
