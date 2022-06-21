@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@500&display=swap');
+
+.sprintful-button {
+	background-color: rgba(59, 130, 246, 1);
+	padding: 0.1rem 0.1rem 0.1rem 0.1rem;
+	font-size: 10px;
+	border-radius: 0.5rem;
+	color: #FFF;
+	font-family: 'Mulish', sans-serif;
+}
+
+.sprintful-button:hover {
+	cursor: pointer;
+	background-color: rgba(29, 78, 216, 1);
+}
+
+.sprintful-overlay {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+	background-color: rgba(107, 114, 128, 0.5);
+}
+
+.sprintful-popup {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translate(-50%, -50%); /* IE 9 */
+	-webkit-transform: translate(-50%, -50%); /* Safari iOS */
+	transform: translate(-50%, -50%); /* Rest of browsers */
+	max-width: 900px;
+	max-height: 600px;
+	background-color: #FFF;
+}
